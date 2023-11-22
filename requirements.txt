@@ -1,0 +1,5 @@
+FastAPI==0.86.1
+pandas==1.4.3
+statsmodels==0.13.2
+matplotlib==3.6.3
+pillow==9.3.0
